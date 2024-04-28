@@ -8,6 +8,7 @@ Welcome to the System Design Repository! This repository is a collection of reso
 - [Low-Level Design (LLD)](#low-level-design-lld)
 - [High-Level Design (HLD)](#high-level-design-hld)
 - [Recommended books](#recommended-books)
+- [About me]()
 
 ## Introduction
 This repository aims to provide resources to understand both aspects of system design i.e, LLD and HLD, along with super practical examples.
@@ -115,3 +116,8 @@ This repository have detailed content on the following topics.
   - [Head first design pattern](https://www.oreilly.com/library/view/head-first-design/0596007124/)
   - [Elements of Reusable Object-Oriented Software](https://www.oreilly.com/library/view/design-patterns-elements/0201633612/)
   - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
+
+## About me
+Currently, software at Uber.
+- [Linkedin](https://www.linkedin.com/in/sahil-yadav-iiitm/)
+- [Youtube](https://www.youtube.com/channel/UC7vrnt2xRdx8km5ly8M4Ppg)
