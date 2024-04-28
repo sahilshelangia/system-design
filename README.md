@@ -20,92 +20,92 @@ This repository have detailed content on the following topics.
   - [ ] SOLID Principle
 - ### Design patterns
   - #### Creational
-    -[ ] Factory Pattern
-    -[ ] Abstract Factory
-    -[ ] Singleton Pattern
-    -[ ] Builder Pattern
-    -[ ] Prototype Pattern
+    - [ ] Factory Pattern
+    - [ ] Abstract Factory
+    - [ ] Singleton Pattern
+    - [ ] Builder Pattern
+    - [ ] Prototype Pattern
   - #### Structural
-    -[ ] Decorator Pattern
-    -[ ] Proxy Pattern
-    -[ ] Composite Pattern
-    -[ ] Adapter Pattern
-    -[ ] Facade Pattern
-    -[ ] Flyweight Pattern
-    -[ ] Bridge Pattern
+    - [ ] Decorator Pattern
+    - [ ] Proxy Pattern
+    - [ ] Composite Pattern
+    - [ ] Adapter Pattern
+    - [ ] Facade Pattern
+    - [ ] Flyweight Pattern
+    - [ ] Bridge Pattern
   - #### Behavioural
-    -[ ] Interpreter Pattern
-    -[ ] Visitor Pattern
-    -[ ] Mediator Pattern
-    -[ ] Iterator Pattern
-    -[ ] Command Pattern
-    -[ ] Memento Pattern
-    -[ ] Template Method Pattern
-    -[ ] State Pattern
-    -[ ] Chain of responsibility
-    -[ ] Strategy Pattern
-    -[ ] Observer Pattern
+    - [ ] Interpreter Pattern
+    - [ ] Visitor Pattern
+    - [ ] Mediator Pattern
+    - [ ] Iterator Pattern
+    - [ ] Command Pattern
+    - [ ] Memento Pattern
+    - [ ] Template Method Pattern
+    - [ ] State Pattern
+    - [ ] Chain of responsibility
+    - [ ] Strategy Pattern
+    - [ ] Observer Pattern
 - ### Problems (machine coding)
-  -[ ] Design tic-tac-toe game
-  -[ ] Design ATM Machine
-  -[ ] Design splitwise
-  -[ ] Design traffic light management system
-  -[ ] Design car rental system
-  -[ ] Design file system
-  -[ ] Design chess game
-  -[ ] Design snake ladder game
-  -[ ] Design concurrent Data Structure (e.g., Lock-Free Queue)
-  -[ ] Design parking lot
-  -[ ] Design elevator system
-  -[ ] Designing a Database Connection Pool
-  -[ ] Design logging system
-  -[ ] Design a compiler or Interpreter
-  -[ ] Design Vending machine
-  -[ ] Design movie booking System (eg- Book my show)
-  -[ ] Design A Browsers history
-  -[ ] Design simplified version of twitter
-  -[ ] Design text editor and LRU cache
+  - [ ] Design tic-tac-toe game
+  - [ ] Design ATM Machine
+  - [ ] Design splitwise
+  - [ ] Design traffic light management system
+  - [ ] Design car rental system
+  - [ ] Design file system
+  - [ ] Design chess game
+  - [ ] Design snake ladder game
+  - [ ] Design concurrent Data Structure (e.g., Lock-Free Queue)
+  - [ ] Design parking lot
+  - [ ] Design elevator system
+  - [ ] Designing a Database Connection Pool
+  - [ ] Design logging system
+  - [ ] Design a compiler or Interpreter
+  - [ ] Design Vending machine
+  - [ ] Design movie booking System (eg- Book my show)
+  - [ ] Design A Browsers history
+  - [ ] Design simplified version of twitter
+  - [ ] Design text editor and LRU cache
 
 ## High-Level Design (HLD)
 This repository have detailed content on the following topics.
 
 ### Basics
--[ ] CAP theorem
--[ ] Envelope Estimation
--[ ] Bloom filters
--[ ] Caching
--[ ] Load balancer
--[ ] Proxy & Reverse Proxy
--[ ] Replication
--[ ] Partitioning
--[ ] Consistent Hashing
--[ ] Rate limiter
--[ ] DNS
--[ ] Understand the scaling of each component
--[ ] Transaction
--[ ] Trouble with distributed system
--[ ] Consistency & Consensus
--[ ] Seven layered architecture
--[ ] JWT
--[ ] Service discovery
--[ ] Clock skewness
+- [ ] CAP theorem
+- [ ] Envelope Estimation
+- [ ] Bloom filters
+- [ ] Caching
+- [ ] Load balancer
+- [ ] Proxy & Reverse Proxy
+- [ ] Replication
+- [ ] Partitioning
+- [ ] Consistent Hashing
+- [ ] Rate limiter
+- [ ] DNS
+- [ ] Understand the scaling of each component
+- [ ] Transaction
+- [ ] Trouble with distributed system
+- [ ] Consistency & Consensus
+- [ ] Seven layered architecture
+- [ ] JWT
+- [ ] Service discovery
+- [ ] Clock skewness
 
 ### Problems
--[ ] Designing a distributed key-value store
--[ ] Design unique id generator
--[ ] Design url shortener
--[ ] Design notification system
--[ ] Design a social media feed platform
--[ ] Design chat application like WhatsApp
--[ ] Design a distributed messaging system
--[ ] Design twitter search
--[ ] Design web crawler
--[ ] Design music streaming system
--[ ] Design video streaming system
--[ ] Design ride-sharing system (eg- Uber)
--[ ] Design a recommendation system (eg- Netflix)
--[ ] Design ecommerce platform (eg- Amazon)
--[ ] Design distributed search engine
+- [ ] Designing a distributed key-value store
+- [ ] Design unique id generator
+- [ ] Design url shortener
+- [ ] Design notification system
+- [ ] Design a social media feed platform
+- [ ] Design chat application like WhatsApp
+- [ ] Design a distributed messaging system
+- [ ] Design twitter search
+- [ ] Design web crawler
+- [ ] Design music streaming system
+- [ ] Design video streaming system
+- [ ] Design ride-sharing system (eg- Uber)
+- [ ] Design a recommendation system (eg- Netflix)
+- [ ] Design ecommerce platform (eg- Amazon)
+- [ ] Design distributed search engine
 
 
 ## Recommended books
@@ -118,6 +118,5 @@ This repository have detailed content on the following topics.
   - [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 
 ## About me
-Currently, software at Uber.
 - [Linkedin](https://www.linkedin.com/in/sahil-yadav-iiitm/)
 - [Youtube](https://www.youtube.com/channel/UC7vrnt2xRdx8km5ly8M4Ppg)
