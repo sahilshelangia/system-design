@@ -91,7 +91,7 @@ This repository have detailed content on the following topics.
 - [ ] Clock skewness
 
 ### Problems
-- [ ] Designing a distributed key-value store
+- [ ] Design a distributed key-value store
 - [ ] Design unique id generator
 - [ ] Design url shortener
 - [ ] Design notification system
