@@ -29,7 +29,7 @@ This repository have detailed content on the following topics.
     - [ ] Decorator Pattern
     - [ ] Proxy Pattern
     - [ ] Composite Pattern
-    - [ ] Adapter Pattern
+    - [X] Adapter Pattern
     - [ ] Facade Pattern
     - [ ] Flyweight Pattern
     - [ ] Bridge Pattern
