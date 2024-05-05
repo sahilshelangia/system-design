@@ -28,7 +28,7 @@ This repository have detailed content on the following topics.
   - #### Structural
     - [ ] Decorator Pattern
     - [ ] Proxy Pattern
-    - [ ] Composite Pattern
+    - [X] Composite Pattern
     - [X] Adapter Pattern
     - [ ] Facade Pattern
     - [ ] Flyweight Pattern
